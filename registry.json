@@ -1,0 +1,21 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry.json",
+  "name": "allan-shadcn",
+  "homepage": "https://github.com/AllanBernier/shadcn-registry",
+  "items": [
+    {
+      "name": "example",
+      "type": "registry:component",
+      "title": "Example",
+      "description": "A example component",
+      "dependencies": [],
+      "registryDependencies": [],
+      "files": [
+        {
+          "path": "registry/new-york/example/example.tsx",
+          "type": "registry:component"
+        }
+      ]
+    }
+  ]
+}

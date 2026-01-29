@@ -1,0 +1,12 @@
+{
+  "name": "shadcn-registry",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-registry.js"
+  },
+  "keywords": ["shadcn", "registry", "components"],
+  "author": "AllanBernier",
+  "license": "MIT",
+  "description": "Custom shadcn component registry"
+}
