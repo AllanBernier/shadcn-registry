@@ -4,6 +4,20 @@
   "homepage": "https://github.com/AllanBernier/shadcn-registry",
   "items": [
     {
+      "name": "card",
+      "type": "registry:component",
+      "title": "Card",
+      "description": "A card component",
+      "dependencies": [],
+      "registryDependencies": [],
+      "files": [
+        {
+          "path": "registry/new-york/card/card.tsx",
+          "type": "registry:component"
+        }
+      ]
+    },
+    {
       "name": "example",
       "type": "registry:component",
       "title": "Example",
